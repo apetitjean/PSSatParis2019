@@ -1,0 +1,1 @@
+## Slides et démos que j'ai présenté le samedi 12 octobre à Paris lors du [PowerShell Saturday Paris 2019](https://frpsug.com/powershellsat-2019/) dans le cadre du [French PowerShell User Group](https://frpsug.com)
